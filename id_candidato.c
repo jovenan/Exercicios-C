@@ -4,7 +4,6 @@
 #include <stdarg.h>
 #include <windows.h>
 #include <stdlib.h>
-//nao funciona ainda
 
 void main() {
 
